@@ -1,0 +1,31 @@
+body {
+    font-family: arial, san-serif;
+    background-color: #f3f3f3;
+    margin:0;
+    padding:0;
+}
+h3 {
+    color: #333;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+center {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #f1f3f4;
+    font-weight: bold;
+
+}
+ul p {
+    background-color: #d5a0e7;
+    margin:10px auto;
+    padding:10px auto;
+    border: 1px solid #ddd;
+    border-radius:5px;
+}
